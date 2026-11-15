@@ -71,13 +71,6 @@ An interactive desktop fractal visualization and exploration studio built with *
 * Windows OS (Windows Forms)
 * NuGet Package: `PDFsharp`
 
-### Build & Run
-```bash
-git clone [https://github.com/your-username/FractalGenerator.git](https://github.com/your-username/FractalGenerator.git)
-cd FractalGenerator
-dotnet restore
-dotnet run
-
 FractalGenerator/
 ├── Form1.cs            # Main UI, input handling, async render loop, PDF/PNG export
 ├── Mandelbrot.cs       # Escape-time Mandelbrot Set bitmap generator
