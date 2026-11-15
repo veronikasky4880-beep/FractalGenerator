@@ -150,10 +150,3 @@ FractalGenerator/
 * [.NET 8.0 SDK](https://dotnet.microsoft.com/download) (або .NET 6.0+ для Windows)
 * ОС Windows (Windows Forms)
 * NuGet-пакет: `PDFsharp`
-
-### Збірка та запуск
-```bash
-git clone [https://github.com/your-username/FractalGenerator.git](https://github.com/your-username/FractalGenerator.git)
-cd FractalGenerator
-dotnet restore
-dotnet run
